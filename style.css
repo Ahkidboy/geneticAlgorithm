@@ -1,0 +1,24 @@
+* {
+
+	outline:none;
+	color:white;
+	
+}
+
+
+html,body{
+  background: black;
+}
+
+label{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+input{
+
+  border:3px solid white;
+  background-color: black;
+  border-radius: 2px;
+
+}
